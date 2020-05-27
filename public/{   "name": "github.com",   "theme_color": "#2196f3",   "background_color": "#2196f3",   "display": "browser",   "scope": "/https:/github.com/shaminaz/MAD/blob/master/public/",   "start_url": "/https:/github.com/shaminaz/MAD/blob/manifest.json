@@ -1,0 +1,8 @@
+{
+  "name": "github.com",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "browser",
+  "scope": "/https://github.com/shaminaz/MAD/blob/master/public/",
+  "start_url": "/https://github.com/shaminaz/MAD/blob/master/public/"
+}
